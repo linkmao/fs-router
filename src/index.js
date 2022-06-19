@@ -15,4 +15,4 @@ app.use(express.static(join(__dirname,'public'))) //esta forma configuro express
 console.log(join(__dirname,'public'))
 app.use(routes)
 
-app.listen(3000, ()=>{console.log("puerto escuchando en el 3000")})
+app.listen(process.env.PORT || 3000, ()=>{console.log("puerto escuchando en el 3000")})
