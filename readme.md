@@ -27,6 +27,10 @@ El frontend se realiza con ejs, el cual permite segmentar el html en porciones l
 ## Despliegue
 Se hace el despliegue del proyecto en heroku. [Despliegue]
 
+## Repositorio GitHub
+El proyecto está en un repositorio en GitHub. [Repositorio]
+
+***
 ### Maolink software
 Version. 1.0.0
 Junio 2022
@@ -35,3 +39,4 @@ Junio 2022
 
 [video de fazt]:<https://www.youtube.com/watch?v=OVESuyVoPkI>
 [Despliegue]:<http://maolink-web.herokuapp.com/>
+[Repositorio]:<https://github.com/linkmao/fs-router.git>
